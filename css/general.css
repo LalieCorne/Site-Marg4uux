@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em !important;
+    margin: 0 !important;
+    padding: 0.2em;
+}
+
+.logo {
+    height: 5em !important;
+}
+
+
+@media (max-width: 992px) {
+    .navbar {
+        height: 8em;
+    }
+}

@@ -1,0 +1,12 @@
+html, body {
+    height: 100%;
+}
+
+header {
+    background-color: #FFE1DE;
+}
+
+button:focus {
+    outline: none;
+    background-color: #c4e8ba !important;
+}
