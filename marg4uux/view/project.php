@@ -4,7 +4,7 @@
     define("_tittle_site_","Marg4uux");
     define("_logo_","../resources/logo.jpg");
     define("_tittle_page_","Mes projets");
-    include ("../../partials/header.php");
+    include ("../partial/header.php");
 ?>
 
 
