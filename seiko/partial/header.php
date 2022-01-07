@@ -45,4 +45,4 @@
         </div>
     </nav>
 </header>
-<main>
+<main class="flex-shrink-0">
