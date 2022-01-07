@@ -24,7 +24,7 @@
 <body>
 <header>
     <h1><?=_tittle_page_?></h1>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg">
         <div class="container-fluid">
             <a class="navbar-brand" href="../view/index.php">
                 <img src="<?=_logo_?>" class="circle mx-auto d-block logo" alt="Logo">
