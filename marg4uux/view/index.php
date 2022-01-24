@@ -20,7 +20,18 @@
                 </div>
             </div>
         </div>
-        <div class="col-4">.col-4<br>Since 9 + 4 = 13 &gt; 12, this 4-column-wide div gets wrapped onto a new line as one contiguous unit.</div>
+        <div class="col-4">
+        <div class="card">
+                <div class="card-header">
+                    Featured
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">Special title treatment</h5>
+                    <p class="card-text"></p>
+                    <iframe src="https://player.twitch.tv/?channel=marg4uux&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="570"></iframe>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
