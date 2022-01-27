@@ -35,13 +35,10 @@
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link active" href="../view/index.php">Acceuil</a>
+                        <a class="nav-link" href="../view/about.php">Mes compétences et connaissances</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../view/about.php">A propos de moi</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="../view/project.php">Mes projets</a>
+                        <a class="nav-link" href="../view/project.php">Presatations et tarifs</a>
                     </li>
                 </ul>
             </div>
