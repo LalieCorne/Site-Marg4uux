@@ -15,29 +15,212 @@
                     <h5 class="card-title">Informatique</h5>
                 </div>
                 <div class="card-body">
-                    <p class="card-text">
+                    <p class="card-text comp">
                         Je maitrise plusieurs outils informatiques assez basiques comme Word et Excel (oui toujours utile) mais aussi d'autres un peu plus complexe et pas que !
                         <br><br>
-                        (4/5) Adobe Première Pro
-                        <br>
-                        (4/5) Adobe Photoshop
-                        <br>
-                        (3/5) Adobe After Effect
-                        <br><br>
-                        (4.5/5) Discord, création de serveur et de permissions
-                        <br>
-                        (4/5) Mumble, création de serveur et de permissions
-                        <br><br>
-                        (2.5/5) Python, j'apprends au lycée, mais je n'ai pas un niveau de fou
-                        <br>
-                        (2/5) Node.js, merci le dev de bots discord
-                        <br>
-                        (4/5) Config de plugins Minecraft
-                        <br><br>
-                        (5/5) Badminton, entraineuse / coach (je suis la meilleure et c'est les petits qui le disent)
-                        <br>
-                        (4/5) Animation d'évènements sportifs, ou toutes autres choses.
                     </p>
+                    <table class="table comp-table">
+                        <tr>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/vide.png" class="circle mx-auto d-block comp" alt="vide">
+                            </td>
+                            <td>
+                                Adobe Première Pro
+                            </td>
+                        </tr>
+                        <tr>
+                        <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/vide.png" class="circle mx-auto d-block comp" alt="vide">
+                            </td>
+                            <td>
+                                Adobe Photoshop
+                            </td>
+                        </tr>
+                        <tr>
+                        <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/vide.png" class="circle mx-auto d-block comp" alt="vide">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/vide.png" class="circle mx-auto d-block comp" alt="vide">
+                            </td>
+                            <td>
+                                Adobe After Effect
+                            </td>
+                        </tr>
+                        <tr>
+                        <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/demi.png" class="circle mx-auto d-block comp" alt="demi">
+                            </td>
+                            <td>
+                                Discord, création de serveur et de permissions
+                            </td>
+                        </tr>
+                        <tr>
+                        <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/vide.png" class="circle mx-auto d-block comp" alt="vide">
+                            </td>
+                            <td>
+                                Mumble, création de serveur et de permissions
+                            </td>
+                        </tr>
+                        <tr>
+                        <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/demi.png" class="circle mx-auto d-block comp" alt="demi">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/vide.png" class="circle mx-auto d-block comp" alt="vide">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/vide.png" class="circle mx-auto d-block comp" alt="vide">
+                            </td>
+                            <td>
+                                Python, j'apprends au lycée, mais je n'ai pas un niveau de fou
+                            </td>
+                        </tr>
+                        <tr>
+                        <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/vide.png" class="circle mx-auto d-block comp" alt="vide">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/vide.png" class="circle mx-auto d-block comp" alt="vide">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/vide.png" class="circle mx-auto d-block comp" alt="vide">
+                            </td>
+                            <td>
+                                Node.js, merci le dev de bots discord
+                            </td>
+                        </tr>
+                        <tr>
+                        <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/vide.png" class="circle mx-auto d-block comp" alt="vide">
+                            </td>
+                            <td>
+                                Config de plugins Minecraft
+                            </td>
+                        </tr>
+                        <tr>
+                        <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td>
+                                Badminton, entraineuse / coach (je suis la meilleure et c'est les petits qui le disent)
+                            </td>
+                        </tr>
+                        <tr>
+                        <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/vide.png" class="circle mx-auto d-block comp" alt="vide">
+                            </td>
+                            <td>
+                                Animation d'évènements sportifs, ou toutes autres choses.
+                            </td>
+                        </tr>
+                    </table>
                 </div>
             </div>
         </div>
@@ -57,6 +240,20 @@
                                 <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
                             </td>
                             <td scope="row">
+                                <img src="../resources/vide.png" class="circle mx-auto d-block comp" alt="vide">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/vide.png" class="circle mx-auto d-block comp" alt="vide">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/vide.png" class="circle mx-auto d-block comp" alt="vide">
+                            </td>
+                            <td>
+                                Espagnol, j'ai les bases du lycée quoi. Hola yo soy margaux !
+                            </td>
+                        </tr>
+                        <tr>
+                        <td scope="row">
                                 <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
                             </td>
                             <td scope="row">
@@ -65,23 +262,37 @@
                             <td scope="row">
                                 <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
                             </td>
-                            <td>Espagnol, j'ai les bases du lycée quoi. Hola yo soy margaux !</td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/vide.png" class="circle mx-auto d-block comp" alt="vide">
+                            </td>
+                            <td>
+                                Anglais, je ne suis pas bilingue, mais je maitrise cette langue plutôt bien.
+                            </td>
                         </tr>
                         <tr>
-                            <td>Mark</td>
-                            <td>Jacob</td>
+                        <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/plein.png" class="circle mx-auto d-block comp" alt="plein">
+                            </td>
+                            <td scope="row">
+                                <img src="../resources/demi.png" class="circle mx-auto d-block comp" alt="demi">
+                            </td>
+                            <td>
+                                Français, je n'ai pas le talent de Molière moi.
+                            </td>
                         </tr>
-                        <tr>
-                            <td>Mark</td>
-                            <td colspan="2">Larry the Bird</td>
-                        </tr>
-                        </table>
-                        (2/5)
-                        <br>
-                        (4/5) Anglais, je ne suis pas bilingue, mais je maitrise cette langue plutôt bien.
-                        <br>
-                        (4.5/5) Français, je n'ai pas le talent de Molière moi.
-                    </p>
+                    </table>
                 </div>
             </div>
         </div>
