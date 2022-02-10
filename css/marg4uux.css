@@ -24,6 +24,7 @@ a {
 
 .card {
     background-color: #f28b0c !important;
+    border-radius: 20px !important;
 }
 
 .container {
@@ -55,7 +56,20 @@ a {
     height: 33em;
 }
 
-.comp {
+.card-about {
+    height: 45em;
+}
+
+.comp-logo {
     height: 2em;
     width: 2em;
+}
+
+.comp-text {
+    font-size : 17px !important;
+}
+
+.comp-table {
+    font-size : 17px !important;
+    color: #f2f2f2 !important;
 }

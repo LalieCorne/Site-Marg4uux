@@ -3,7 +3,7 @@
 <?php
     define("_tittle_site_","Marg4uux");
     define("_logo_","../resources/logo2.png");
-    define("_tittle_page_","Acceuil");
+    define("_tittle_page_","Marg4uux");
     include ("../partial/header.php");
 ?>
 
@@ -42,13 +42,25 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        <a href="https://www.twitch.tv/marg4uux">marg4uux</a>
+                        <a href="https://www.twitch.tv/marg4uux"> 
+                            <img src="../../css/icons/png/001-twitch.png" alt="Twitch">
+                            marg4uux
+                        </a>
                         <br>
-                        <a href="https://twitter.com/marg4uux">marg4uux</a>
+                        <a href="https://twitter.com/marg4uux">
+                            <img src="../../css/icons/png/003-twitter.png" alt="Twitter">
+                            marg4uux
+                        </a>
                         <br>
-                        <a href="https://www.instagram.com/marg4uux_pro/">marg4uux_pro</a>
+                        <a href="https://www.instagram.com/marg4uux_pro/">
+                            <img src="../../css/icons/png/004-discord.png" alt="Discord">
+                            marg4uux_pro
+                        </a>
                         <br>
-                        <a href="https://www.youtube.com/channel/UCxv_mzD4UybxB5OZwpVAVRg">marg4uux</a>
+                        <a href="https://www.youtube.com/channel/UCxv_mzD4UybxB5OZwpVAVRg">
+                            <img src="../../css/icons/png/002-youtube.png" alt="Youtube">
+                            marg4uux
+                        </a>
                     </p>
                 </div>
             </div>
