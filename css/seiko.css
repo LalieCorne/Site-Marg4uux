@@ -1,9 +1,0 @@
-header {
-    background-color: #f29f05;
-    color: #010a26;
-}
-
-button:focus {
-    outline: none;
-    background-color: #f28705 !important;
-}
