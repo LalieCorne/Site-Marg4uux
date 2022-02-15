@@ -1,16 +1,16 @@
-<link rel="stylesheet" href="../../css/marg4uux.css">
+<link rel="stylesheet" href="../css/marg4uux.css">
 
 <?php
     define("_tittle_site_","Marg4uux");
     define("_logo_","../resources/logo2.png");
     define("_tittle_page_","Prestations et tarifs");
-    include ("../partial/header.php");
+    include ("../partials/header.php");
 ?>
 
 <div class="container">
     <div class="row">
         <div class="col-8">
-            <div class="card card-index">
+            <div class="card card-price">
                 <div class="card-header">
                     <h5 class="card-title">Parlons de moi</h5>
                 </div>
@@ -45,7 +45,7 @@
             </div>
         </div>
         <div class="col-4">
-        <div class="card side-card card-index">
+        <div class="card side-card card-price">
                 <div class="card-header">
                     <h5 class="card-title">Pour me contacter</h5>
                 </div>
@@ -62,5 +62,5 @@
 </div>
 
 <?php
-    include ("../../partials/footer.php");
+    include ("../partials/footer.php");
 ?>

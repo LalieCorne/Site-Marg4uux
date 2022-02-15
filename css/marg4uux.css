@@ -60,6 +60,10 @@ a {
     height: 45em;
 }
 
+.card-price {
+    height: 26em;
+}
+
 .comp-logo {
     height: 2em;
     width: 2em;
