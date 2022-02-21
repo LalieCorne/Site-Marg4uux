@@ -26,7 +26,7 @@
     <h1><?=_tittle_page_?></h1>
     <nav class="navbar navbar-expand-lg">
         <div class="container-fluid">
-            <a class="navbar-brand" href="../view/index.php">
+            <a class="navbar-brand" href="../index.php">
                 <img src="<?=_logo_?>" class="circle mx-auto d-block logo" alt="Logo">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
