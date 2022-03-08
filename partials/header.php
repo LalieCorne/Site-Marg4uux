@@ -21,7 +21,7 @@
 
     <title><?=_tittle_site_?></title>
 </head>
-<body>
+<body class="d-flex flex-column h-100">
 <header>
     <h1><?=_tittle_page_?></h1>
     <nav class="navbar navbar-expand-lg">
